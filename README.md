@@ -2,9 +2,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-miguel-alves-de-oliveira-149375150//)](https://www.linkedin.com/in/luiz-miguel-alves-de-oliveira-149375150/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=luiz.miguel@unesp.br)](luiz.miguel@unesp.br)
 
-## Bem vindo!
-
 <br>
+## Informações
 
 Sou cientista de dados e bacharel em física médica. Trabalho com coleta de dados (web scraping), análise exploratória e desenvolvo modelos de machine learning.
 
