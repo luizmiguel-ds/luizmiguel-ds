@@ -8,7 +8,7 @@
 Sou cientista de dados e bacharel em física médica. Trabalho com coleta de dados (web scraping), análise exploratória e desenvolvo modelos de machine learning.
 
 <br>
-<br>
+
 **🏍Ferramentas e Linguagens**
 - 🖥Uso diário:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
