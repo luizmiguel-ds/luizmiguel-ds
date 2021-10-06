@@ -1,5 +1,5 @@
 # Luiz Miguel
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-miguel-alves-de-oliveira-149375150//)](https://www.linkedin.com/in/luiz-miguel-alves-de-oliveira-149375150/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/datascienceluizmiguel//)](https://www.linkedin.com/in/datascienceluizmiguel/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=luiz.miguel@unesp.br)](luiz.miguel@unesp.br)
 
 ## 😎Bem vindo(a) ao meu perfil!
