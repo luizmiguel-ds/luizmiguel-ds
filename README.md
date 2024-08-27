@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/datascienceluizmiguel//)](https://www.linkedin.com/in/datascienceluizmiguel/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=luiz.miguel@unesp.br)](luiz.miguel@unesp.br)
 
-## 😎Bem vindo(a) ao meu perfil!
+## Bem vindo(a) ao meu perfil!
 <br>
 
 Sou analista de dados (BI), cientista de dados e bacharel em física médica. Trabalho análise de dados no Microsoft Power BI e utilizando a Linguagem de Programação Python, também atuo com coleta de dados (web scraping), análise exploratória e desenvolvo modelos de machine learning.
