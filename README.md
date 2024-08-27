@@ -5,12 +5,13 @@
 ## 😎Bem vindo(a) ao meu perfil!
 <br>
 
-Sou cientista de dados e bacharel em física médica. Trabalho com coleta de dados (web scraping), análise exploratória e desenvolvo modelos de machine learning.
+Sou analista de dados (BI), cientista de dados e bacharel em física médica. Trabalho análise de dados no Microsoft Power BI e utilizando a Linguagem de Programação Python, também atuo com coleta de dados (web scraping), análise exploratória e desenvolvo modelos de machine learning.
 
 <br>
 
 **🏍Ferramentas e Linguagens**
 - 🖥Uso diário:
+![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
@@ -20,7 +21,6 @@ Sou cientista de dados e bacharel em física médica. Trabalho com coleta de dad
 
 - 📎Conhecimento básico:
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
 
 - 👁‍🗨Aprendendo:
